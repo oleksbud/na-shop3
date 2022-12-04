@@ -1,7 +1,7 @@
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace Core
+namespace API
 {
     public class Program
     {
