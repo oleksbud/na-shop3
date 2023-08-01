@@ -6,6 +6,7 @@ namespace API.Controllers;
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
+    // changes in git to reassign the remotes
     private static readonly string[] Summaries = new[]
     {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
